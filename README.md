@@ -15,4 +15,4 @@ This is a simple calculator project implemented using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/calculator-project.git
+git clone https://github.com/Angrajkarn/calculator.git
