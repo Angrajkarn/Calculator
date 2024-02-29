@@ -16,17 +16,3 @@ This is a simple calculator project implemented using HTML, CSS, and JavaScript.
 
 ```bash
 git clone https://github.com/your-username/calculator-project.git
-
-
-Open index.html in your web browser to use the calculator.
-
-Click on the buttons to perform calculations.
-
-You can also use keyboard inputs for calculations:
-
-Use digits (0-9) for numbers.
-Use operators (+, -, *, /, %) for arithmetic operations.
-Press Enter key to calculate.
-Use Backspace key for deleting characters.
-##Contributing
-Contributions are welcome! Please feel free to submit pull requests to improve the functionality or fix any bugs.
